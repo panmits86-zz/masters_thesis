@@ -1,4 +1,0 @@
-cartopy
-matplotlib
-pandas
-gdal
