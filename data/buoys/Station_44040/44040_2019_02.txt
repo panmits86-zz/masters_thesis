@@ -1,0 +1,4 @@
+#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS  TIDE
+#yr  mo dy hr mn degT m/s  m/s     m   sec   sec deg    hPa  degC  degC  degC  nmi    ft
+2019 02 17 14 50  10  2.6  4.1  0.10 99.00 99.00 999 9999.0  -3.3 999.0 -12.3 99.0 99.00
+2019 02 17 15 15  10  2.6  4.1  0.10 99.00 99.00 999 9999.0  -3.3 999.0 -12.3 99.0 99.00
