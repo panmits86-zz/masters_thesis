@@ -7,10 +7,12 @@
 ## Satellite Altimetry Data
 
 Download data of Jason 3 and SARAL-AltiKa satellite altimeters from the Aviso Online Data Extraction Service.
+
 Link: http://odes.altimetry.cnes.fr/#7zzzzzzzzzzz:3
 
 ### Data Availability:
 Jason 3 Data is available from 12/2/2016. SARAL/AltiKa data is available from 2013 and the drifting phase begun in 5/7/2016.
+
 Along-tracks of Jason 3 for the domain of interest are 126 & 243 for the IGDR products. Data from the 050 & 167 passes will be added as well.
 
 ### Data downloaded:
