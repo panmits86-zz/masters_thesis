@@ -25,5 +25,6 @@
    - glob2
    - cmocean
    - cmaps
+   - haversine
    - pip:
      - python-awips
