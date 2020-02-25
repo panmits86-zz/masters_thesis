@@ -20,5 +20,10 @@
    - gdal
    - pandas
    - xlrd>=1.0.0
+   - dask
+   - netcdf4
+   - glob2
+   - cmocean
+   - cmaps
    - pip:
      - python-awips
