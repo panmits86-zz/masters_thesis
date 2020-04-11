@@ -26,5 +26,10 @@
    - cmocean
    - cmaps
    - haversine
+   - pathlib
+   - scikit-learn
+   - scipy
+   - seaborn
+   - windrose
    - pip:
      - python-awips
