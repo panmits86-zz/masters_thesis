@@ -33,4 +33,6 @@ Link: https://www.ndbc.noaa.gov/
 
 1. Map of the domain including the buoys.
 2. Map of the satellite tracks in the domain.
-3. Organize the data to pandas and merge the into single .txt files for wind and wave parameters for each buoy.
+3. Organize the data to pandas and merge them into single .txt files for wind and wave parameters for each buoy.
+4. Create an algorithm to validate altimeter with buoy data.
+5. Create Wind & Wave roses for buoys in the domain of interest.
