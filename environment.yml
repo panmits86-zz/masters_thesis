@@ -33,3 +33,4 @@
    - windrose
    - pip:
      - python-awips
+     - scikit-gstat
